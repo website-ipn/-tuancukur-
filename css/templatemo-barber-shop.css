@@ -569,7 +569,7 @@ strong {
   BOOKING               
 -----------------------------------------*/
 .booking-section {
-  background-image: url('../images/vintage-chair-barbershop.jpg');
+  background-image: url('../images/imuar1.webp');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -840,4 +840,5 @@ strong {
     padding: 35px;
   }
 }
+
 
